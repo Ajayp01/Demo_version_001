@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-12T14:47:03Z" name="Reg Suite demo" finished-at="2020-04-12T14:47:03Z" duration-ms="53">
+    <groups>
+    </groups>
+    <test started-at="2020-04-12T14:47:03Z" name="Reg Test 1" finished-at="2020-04-12T14:47:03Z" duration-ms="53">
+      <class name="com.qa.tests.TestCase_3">
+        <test-method signature="test3()[pri:0, instance:com.qa.tests.TestCase_3@128d2484]" started-at="2020-04-12T14:47:03Z" name="test3" finished-at="2020-04-12T14:47:03Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- com.qa.tests.TestCase_3 -->
+      <class name="com.qa.tests.TestCase_4">
+        <test-method signature="test4()[pri:0, instance:com.qa.tests.TestCase_4@7cc0cdad]" started-at="2020-04-12T14:47:03Z" name="test4" finished-at="2020-04-12T14:47:03Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- com.qa.tests.TestCase_4 -->
+      <class name="com.qa.tests.TestCase_5">
+        <test-method signature="test5()[pri:0, instance:com.qa.tests.TestCase_5@7c7b252e]" started-at="2020-04-12T14:47:03Z" name="test5" finished-at="2020-04-12T14:47:03Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+      </class> <!-- com.qa.tests.TestCase_5 -->
+      <class name="com.qa.tests.TestCase_1">
+        <test-method signature="test1()[pri:0, instance:com.qa.tests.TestCase_1@6f1de4c7]" started-at="2020-04-12T14:47:03Z" name="test1" finished-at="2020-04-12T14:47:03Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.qa.tests.TestCase_1 -->
+      <class name="com.qa.tests.TestCase_2">
+        <test-method signature="test2()[pri:0, instance:com.qa.tests.TestCase_2@459e9125]" started-at="2020-04-12T14:47:03Z" name="test2" finished-at="2020-04-12T14:47:03Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- com.qa.tests.TestCase_2 -->
+    </test> <!-- Reg Test 1 -->
+  </suite> <!-- Reg Suite demo -->
+</testng-results>

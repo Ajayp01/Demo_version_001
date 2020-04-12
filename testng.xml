@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Reg Suite demo">
+  <test thread-count="5" name="Reg Test 1">
+    <!--  <classes>
+      <class name="com.qa.tests.TestCase_5"/>
+      <class name="com.qa.tests.TestCase_2"/>
+      <class name="com.qa.tests.TestCase_1"/>
+      <class name="com.qa.tests.TestCase_4"/>
+      <class name="com.qa.tests.TestCase_3"/>
+    </classes>
+    -->
+    <packages>
+    	<package name="com.qa.tests"/>
+    </packages>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
