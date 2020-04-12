@@ -1,4 +1,4 @@
-package com.qa.tests;
+package com.qa.regression.tests;
 
 import org.testng.annotations.Test;
 

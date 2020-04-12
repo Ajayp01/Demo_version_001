@@ -1,4 +1,4 @@
-package com.qa.tests;
+package com.qa.regression.tests;
 
 import org.testng.annotations.Test;
 
@@ -9,6 +9,5 @@ public class TestCase_4 {
 	{
 		System.out.println("Running Test Case 4");
 	}
-
 
 }
