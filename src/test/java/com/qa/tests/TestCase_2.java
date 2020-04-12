@@ -1,11 +1,13 @@
 package com.qa.tests;
 
+import org.testng.annotations.Test;
+
 public class TestCase_2 {
 
-	public static void main(String[] args) {
-		
+	@Test(priority=2)
+	public void test2()
+	{
 		System.out.println("Running Test Case 2");
-
 	}
 
 }
